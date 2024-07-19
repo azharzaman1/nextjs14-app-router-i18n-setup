@@ -1,5 +1,7 @@
 ## Next.js (App Router) - v 14.2.5 - Complete i18n setup.
 
+<a href="https://nextjs14-app-router-i18n-setup.vercel.app/">Demo</a>
+
 <img src="https://res.cloudinary.com/dqb4kigar/image/upload/v1721425597/cil-assets/nextjs-i18n-ss_vhlw0r.png" alt="Implementation preview." width="500"></img>
 
 ### Resources used:
