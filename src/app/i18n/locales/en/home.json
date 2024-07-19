@@ -1,0 +1,6 @@
+{
+  "hero": { "heading": "Page rendering on server side." },
+  "cc": {
+    "heading": "This is for the client component that renders on client side. Within the server component (page)."
+  }
+}
